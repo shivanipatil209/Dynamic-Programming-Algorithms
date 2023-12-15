@@ -26,15 +26,41 @@ $ python3 main.py ALG3
 
 | Algorithm | Time Complexity | Space Complexity |
 | ------- | ------- | ------- |
-| ALG1 (Brute Force)   | O(m^3n^3)   | O(1)   |
-| ALG2   | O(m^2n^2)   | O(1)   |
+| ALG1 (Brute Force)   | O(m<sup>3</sup>n<sup>3</sup>)   | O(1)   |
+| ALG2   | O(m<sup>2</sup>n<sup>2</sup>)   | O(1)   |
 | ALG3 (Dynamic Programming)   | O(mn)   | O(mn)   |
 
 <b> For Problem 2 </b>
 | Algorithm | Time Complexity | Space Complexity |
 | ------- | ------- | ------- |
-| ALG4 (Dynamic Programming)   | O(mn^2)   | O(mn^2)   |
+| ALG4 (Dynamic Programming)   | O(mn<sup>2</sup>   | O(mn<sup>2</sup>)   |
 | ALG5A (Recursive)   | O(mn)  | O(mn)  |
 | ALG5B (Iterative)   | O(mn)   | O(mn)   |
 
+<b> For Problem 3 </b>
+| Algorithm | Time Complexity | Space Complexity |
+| ------- | ------- | ------- |
+| ALG6 (Brute Force)   | O(m<sup>3</sup>n<sup>3</sup>)   | O(1) |
+| ALG7 (Dynamic Programming)   | O(mnk)   | O(1)   |
 
+## Experimental Comparative Study
+
+Figures 1, 2, and 3 depict visual representations illustrating the execution time needed for various tasks across different input sizes, with m=n, h, and randomly generated matrix values.
+
+<div align="center">
+ <img src="Experimental%20Study/Problem1.PNG" width="500" />
+   <p align="center">
+   <b>Figure 1 : For Problem 1 </b>
+</p>
+<img src="Experimental%20Study/Problem2.PNG" width="500"/> 
+   <p align="center">
+   <b>Figure 2 : For Problem 2 </b>
+</p>
+<img src="Experimental%20Study/Problem2.PNG" width="500" />
+<p align="center">
+   <b>Figure 3 : For Problem 3 </b>
+</p>
+</div>
+
+## Implementation Details
+For detailed implementation information, please refer to the [project report](ProjectReport.pdf).
