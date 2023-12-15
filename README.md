@@ -56,7 +56,7 @@ Figures 1, 2, and 3 depict visual representations illustrating the execution tim
    <p align="center">
    <b>Figure 2 : For Problem 2 </b>
 </p>
-<img src="Experimental%20Study/Problem2.PNG" width="500" />
+<img src="Experimental%20Study/Problem3.PNG" width="500" />
 <p align="center">
    <b>Figure 3 : For Problem 3 </b>
 </p>
